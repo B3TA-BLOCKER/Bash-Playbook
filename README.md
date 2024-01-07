@@ -27,12 +27,14 @@ Welcome to the Bash Playbook Repository! This repository is dedicated to storing
       git push origin main
 
 4 **Repository Structure**
+
    The repository is organized as follows:
 
    scripts/: Contains various Bash scripts.
    README.md: This file provides an overview of the repository and instructions on getting started.
 
 5 **Contributing**
+
    I welcome contributions from the community! If you have a Bash script that you'd like to share, follow these steps:
 
    * Fork the repository.
