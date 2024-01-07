@@ -15,8 +15,8 @@ Welcome to the Bash Playbook Repository! This repository is dedicated to storing
 
 3 **Contribute Your Own Bash Script:**
 
-      Create a new Bash script or modify an existing one.
-      Add a descriptive README file explaining the script's purpose, usage, and any dependencies.
-      Commit your changes and push them to the repository.
+   * Create a new Bash script or modify an existing one.
+   * Add a descriptive README file explaining the script's purpose, usage, and any dependencies.
+   * Commit your changes and push them to the repository.
 
 
