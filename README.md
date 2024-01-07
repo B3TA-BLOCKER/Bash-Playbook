@@ -28,7 +28,7 @@ Welcome to the Bash Playbook Repository! This repository is dedicated to storing
 
 4 **Repository Structure**
 
-   The repository is organized as follows:
+   # The repository is organized as follows:
 
    scripts/: Contains various Bash scripts.
    README.md: This file provides an overview of the repository and instructions on getting started.
