@@ -5,8 +5,6 @@ Welcome to the Bash Playbook Repository! This repository is dedicated to storing
 ## Getting Started
 
 1. **Clone the Repository:**
-   
-   bash
    ```bash
    git clone https://github.com/B3TA-BLOCKER/Bash-Playbook.git
    cd Bash-Playbook
