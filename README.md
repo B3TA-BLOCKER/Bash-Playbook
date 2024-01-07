@@ -20,11 +20,14 @@ Welcome to the Bash Playbook Repository! This repository is dedicated to storing
    * Add a descriptive README file explaining the script's purpose, usage, and any dependencies.
    * Commit your changes and push them to the repository.
 
-```bash
-git add your_script.sh
-git add README.md
-git commit -m "Add my awesome Bash script"
-git push origin main
+   ```bash
+   git add your_script.sh
+   git add README.md
+   git commit -m "Add my awesome Bash script"
+   git push origin main
 
+3 **Repository Structure**
+   The repository is organized as follows:
 
-
+   scripts/: Contains various Bash scripts created by contributors.
+   README.md: This file provides an overview of the repository and instructions on getting started.
