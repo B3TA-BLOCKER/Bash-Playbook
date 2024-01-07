@@ -6,5 +6,7 @@ Welcome to the Bash Learning Repository! This repository is dedicated to storing
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/bash-learning.git
-   cd bash-learning
+   git clone https://github.com/B3TA-BLOCKER/Bash-Playbook.git
+   cd Bash-Playbook
+
+
