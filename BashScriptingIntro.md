@@ -1,4 +1,4 @@
-# Introduction to Bash Scripting
+# Introduction to Bash Scripting 🚀
 
 **What is Bash?**
 
