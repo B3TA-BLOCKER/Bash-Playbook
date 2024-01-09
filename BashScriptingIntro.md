@@ -1,3 +1,5 @@
+# Introduction to Bash Scripting
+
 **What is Bash?**
 
 Bash is a widely-used shell in the industry. When we open the terminal on a Linux or Unix system and enter commands, we are interacting with the shell. Bash enables the execution of commands and scripts, providing a powerful interface for system administration and automation.
