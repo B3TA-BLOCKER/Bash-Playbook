@@ -32,7 +32,7 @@ Scripting plays a crucial role in system administration and automation. Here's w
     - The shebang at the beginning of the script (#!/bin/bash) specifies the path to the Bash interpreter. It instructs the system to execute the script using the Bash shell.
 
 2. **Comments:**
-    - Comments in Bash start with a # symbol. They are used to provide explanations, documentation, or any other information about the script.
+    - Comments in Bash start with a # symbol.
 
 
 **Making a Bash Script Executable:**
