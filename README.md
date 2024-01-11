@@ -35,12 +35,4 @@ Welcome to the Bash Playbook Repository! This repository is dedicated to storing
       scripts/: Contains various Bash scripts.                                                                                 
       README.md: This file provides an overview of the repository and instructions on getting started.
 
-5 **Contributing**
-
-   I welcome contributions from the community! If you have a Bash script that you'd like to share, follow these steps:
-
-   * Fork the repository.
-   * Create a new branch for your changes.
-   * Add your Bash script to the scripts/ directory.
-   * Create a detailed README file for your script.
-   * Commit your changes and open a pull request.
+   
