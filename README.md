@@ -8,6 +8,7 @@ Welcome to the Bash Playbook Repository! This repository is dedicated to storing
    ```bash
    git clone https://github.com/B3TA-BLOCKER/Bash-Playbook.git
    cd Bash-Playbook
+   ```
    
 2 **Explore Bash Scripts:**
 
@@ -25,6 +26,7 @@ Welcome to the Bash Playbook Repository! This repository is dedicated to storing
       git add README.md
       git commit -m "Add my awesome Bash script"
       git push origin main
+      ```
 
 4 **Repository Structure**
 
