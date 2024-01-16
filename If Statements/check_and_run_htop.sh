@@ -7,7 +7,7 @@ then
     echo "$command is avaliable, let's run it ..."
 else
     echo "$command is NOT avaliable, installing it ..."
-    sudo apt updata && sudo apt install htop -y
+    sudo apt update && sudo apt install htop -y
 fi
 
 $command
