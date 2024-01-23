@@ -1,5 +1,7 @@
 #! /bin/bash
 
+clear # clear screen
+
 variable=htop
 
 if command -v $variable # command checks for the existence of a command
