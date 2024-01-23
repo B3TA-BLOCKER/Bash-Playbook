@@ -1,5 +1,7 @@
 #!/bin/bash
 
+clear # clear screen
+
 myval=50
 
 if [ $myval -lt 500 ] # lt means LESSER THAN
