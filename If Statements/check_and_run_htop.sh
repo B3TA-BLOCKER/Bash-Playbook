@@ -1,5 +1,7 @@
 #! /bin/bash
 
+clear # clear screen
+
 command=/usr/bin/htop
 
 if [ -f $command ]
