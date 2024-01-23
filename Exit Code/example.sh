@@ -1,5 +1,7 @@
 #!/bin/bash
 
+clear # clear screen
+
 directory=/etc
 
 if [ -d $directory ]
