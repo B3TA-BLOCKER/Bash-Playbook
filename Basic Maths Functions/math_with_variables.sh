@@ -1,5 +1,7 @@
 #!/bin/bash
 
+clear # clear screen
+
 num1=100
 num2=30
 
