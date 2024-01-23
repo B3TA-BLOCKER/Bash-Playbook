@@ -1,5 +1,7 @@
 #!/bin/bash
 
+clear # clear screen
+
 directory=/etc
 
 if [ -d $directory] # (-d) checks for the existence of a particular directory.
