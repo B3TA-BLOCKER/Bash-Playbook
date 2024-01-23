@@ -1,5 +1,7 @@
 #!/bin/bash
 
+clear # clear screen
+
 package=htop
 
 sudo apt install $package >> package_install_results.log
