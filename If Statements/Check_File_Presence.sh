@@ -1,5 +1,6 @@
 #!/bin/bash
 
+clear # clear screen
 # (-f) is representing a check for a file
 
 if [ -f ~/myfile ] # (~) is representing the home directory
