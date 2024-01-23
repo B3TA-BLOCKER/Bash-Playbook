@@ -1,5 +1,7 @@
 #!/bin/bash
 
+clear # clear screen
+
 # declaring a variable and giving it a value
 val=200
 
