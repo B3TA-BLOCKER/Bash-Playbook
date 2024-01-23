@@ -1,5 +1,7 @@
 #!/bin/bash
 
+clear # clear screen
+
 myval=500
 
 if [ $myval -gt 500 ] # gt means GREATER THAN 
