@@ -1,5 +1,7 @@
 #!/bin/bash
 
+clear # clear screen
+
 myval=500
 
 if [ ! $myval -eq 500 ] # (!) before $myval negates the condition, checking if the variable $myval is not equal to 500 
