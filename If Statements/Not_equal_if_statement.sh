@@ -1,5 +1,7 @@
 #!/bin/bash
 
+clear # clear screen
+
 myval=500
 
 if [ $myval -nq 500 ] # nq means NOT EQUALS 
