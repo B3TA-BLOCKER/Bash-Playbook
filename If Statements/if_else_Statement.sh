@@ -1,5 +1,7 @@
 #! /bin/bash
 
+clear # clear screen
+
 val=300
 
 if [ $val -eq 300 ]
