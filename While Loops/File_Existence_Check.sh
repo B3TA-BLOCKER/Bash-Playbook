@@ -1,6 +1,7 @@
 #!/bin/bash
 
-clear
+clear # clear screen
+
 while [ -f ~/testfile ]
 do
     echo "The file exists."
