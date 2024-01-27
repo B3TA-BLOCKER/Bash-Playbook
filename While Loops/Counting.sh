@@ -1,5 +1,7 @@
 #!/bin/bash
 
+clear # clear screen
+
 myvar=1
 clear # it will clear the screen
 while [ $myvar -le 10 ] # (-le) means less than equal to
