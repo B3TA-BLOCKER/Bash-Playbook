@@ -13,5 +13,7 @@ myage="20"
 # echo myname
 # This isn't going to work when ever we reference a variable in bash we have to include a dollar sign in front of the name of the variable 
 
+clear # clear screen
+
 echo "My name is $myname."
 echo "I'm $myage years old"
