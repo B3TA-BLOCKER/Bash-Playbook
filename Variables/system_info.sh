@@ -1,5 +1,7 @@
 #!/bin/bash
 
+clear # clear screen
+
 echo "Hello"
 now=$(date)
 echo "The system time and date is : $now"
