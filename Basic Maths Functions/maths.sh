@@ -8,6 +8,8 @@
 # Specifically in bash, we have the (evaluate expression) which is abbreviated as {expr} 
 # that lets bash know what you are trying to do.
 
+clear
+
 expr 30 + 40
 expr 30 - 10
 expr 30 / 3
