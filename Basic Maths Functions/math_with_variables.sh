@@ -1,6 +1,6 @@
 #!/bin/bash
 
-clear # clear screen
+clear
 
 num1=100
 num2=30
