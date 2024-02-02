@@ -1,5 +1,7 @@
 #!/bin/bash
 
+clear
+
 if [ -d /etc/pacman.d ]
 then
     # The host is based on Arch, run the pacman update command
