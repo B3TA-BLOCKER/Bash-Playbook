@@ -1,5 +1,7 @@
 #!/bin/bash
 
+clear
+
 release_file=/etc/os-release
 
 # Depending on which OS you are running you can change the search criteria
