@@ -3,9 +3,10 @@
 clear
 
 finished=0
-
 while [ $finished -ne 1 ]
 do 
+    clear
+    
     echo "What is your favorite Linux Distribution? "
 
     echo "1 - Arch"
