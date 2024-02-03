@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# Simple Menu
+
+clear
+
 echo "What is your favorite Linux Distribution? "
 
 echo "1 - Arch"
