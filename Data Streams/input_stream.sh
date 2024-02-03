@@ -1,5 +1,7 @@
 #!/bin/bash
 
+clear
+
 echo "Please enter your name : "
 read myname  # read is used for taking the input from the user 
 
