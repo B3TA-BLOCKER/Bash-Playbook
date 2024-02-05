@@ -18,7 +18,8 @@ do
     # If you are scanning the entire subnet you're scanning ips from 1--->254.
     # So we use {sequence} it can use characters, keywords and also numbering (which we are doing in this case).
 
-    ping -c 1 $SUBNET.$ip # So the count of ping is going to be one.
+    ping -c 1 $SUBNET.$ip # (-c) is used for specifying the count of pings 
+    # So the count of ping is going to be one.
     # we want to ping each ip once.
 done
 
