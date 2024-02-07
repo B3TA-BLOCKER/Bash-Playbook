@@ -2,7 +2,7 @@
 
 clear # clear screen command 
 
-// Simple Password Generator
+# Simple Password Generator
 
 
 echo "                              #######                                                      ######"
