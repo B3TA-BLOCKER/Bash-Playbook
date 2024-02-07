@@ -2,8 +2,7 @@
 
 clear # clear screen command 
 
-#  Simple Password Generator
-
+#  Password Generator ASCII Art
 echo -e "\n\n\n\n"
 echo ""
 echo -e "\t\t\t\t\t\t\t   #######                                                      ######                                                        "
