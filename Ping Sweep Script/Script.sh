@@ -5,6 +5,8 @@
 # The purpose or the function of this is to ping a subnet or a set of ip addresses of your choice.
 # And to check whether the target is online or not.
 
+clear # clear screen command 
+
 # Asking the user to Enter a subnet.
 echo "Please Enter the Subnet : "
 read SUBNET
