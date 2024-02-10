@@ -2,6 +2,26 @@
 
 Welcome to the Bash Playbook Repository! This repository is dedicated to storing and sharing Bash scripts created while learning Bash scripting.
 
+## Topics Covered
+
+- Hello World
+- Variables
+- Basic Maths
+- if Statements
+- Exit Codes
+- While Loop
+- Universal Update Script
+- For Loops
+- Data Streams
+- Functions
+- Case Statements
+- Scheduling Jobs
+- Arguments
+- Backup Script
+- Ping Sweep Script
+- Password Generator
+- File Encrypter/Decrypter.
+
 ## 🏁 Getting Started 🏁
 
 1. **Clone the Repository:**
