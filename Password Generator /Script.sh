@@ -2,17 +2,6 @@
 
 clear # clear screen command 
 
-#  Password Generator ASCII Art
-echo -e "\n\n\n\n"
-echo ""
-echo -e "\t\t\t\t\t\t\t   #######                                                      ######                                                        "
-echo -e "\t\t\t\t\t\t\t   #     #   ##    ####   ####  #    #  ####  #####  #####     #     # ###### #    # ###### #####    ##   #####  ####  ###### "
-echo -e "\t\t\t\t\t\t\t   #     #  #  #  #      #      #    # #    # #    # #    #    #       #      ##   # #      #    #  #  #    #   #    # #    # "
-echo -e "\t\t\t\t\t\t\t   ######  #    #  ####   ####  #    # #    # #    # #    #    #  #### #####  # #  # #####  #    # #    #   #   #    # #    # "
-echo -e "\t\t\t\t\t\t\t   #       ######      #      # # ## # #    # #####  #    #    #     # #      #  # # #      #####  ######   #   #    # #####  "
-echo -e "\t\t\t\t\t\t\t   #       #    # #    # #    # ##  ## #    # #   #  #    #    #     # #      #   ## #      #   #  #    #   #   #    # #   #  "
-echo -e "\t\t\t\t\t\t\t   #       #    #  ####   ####  #    #  ####  #    # #####      #####  ###### #    # ###### #    # #    #   #    ####  #    # "
-
 # User is going to enter the length of the password.
 echo -n -e "Please Enter the length of the password \n-> "
 read Password_Lenght
