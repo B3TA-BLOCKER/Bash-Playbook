@@ -4,23 +4,24 @@ Welcome to the Bash Playbook Repository! This repository is dedicated to storing
 
 ## Topics Covered
 
-- Hello World
-- Variables
-- Basic Maths
-- if Statements
-- Exit Codes
-- While Loop
-- Universal Update Script
-- For Loops
-- Data Streams
-- Functions
-- Case Statements
-- Scheduling Jobs
-- Arguments
-- Backup Script
-- Ping Sweep Script
-- Password Generator
-- File Encrypter/Decrypter.
+- Hello World 👋
+- Variables 💡
+- Basic Maths ➕➖✖️➗
+- if Statements 🤔
+- Exit Codes 🚪
+- While Loop 🔁
+- Universal Update Script 🔄
+- For Loops 🔄
+- Data Streams 📊
+- Functions ⚙️
+- Case Statements 📝
+- Scheduling Jobs 📅
+- Arguments 📑
+- Backup Script 💾
+- Ping Sweep Script 🌐
+- Password Generator 🔒🔑
+- File Encrypter/Decrypter 📜🔐
+
 
 ## 🏁 Getting Started 🏁
 
