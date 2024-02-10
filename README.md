@@ -23,7 +23,7 @@ Welcome to the Bash Playbook Repository! This repository is dedicated to storing
 - File Encrypter/Decrypter 📜🔐
 
 
-## 🏁 Getting Started 🏁
+## Getting Started 🏁
 
 1. **Clone the Repository:**
       ```bash
