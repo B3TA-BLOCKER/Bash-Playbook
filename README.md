@@ -1,4 +1,4 @@
-# Bash Playbook 🚀
+# Bash Playbook 💻
 
 <strong>Welcome to the Bash Playbook Repository! This repository is dedicated to storing and sharing Bash scripts created while learning Bash scripting.</strong>
 
